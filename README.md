@@ -4,7 +4,7 @@ My first game. You can play it here https://ryabv.github.io/2D-Platformer/
 
 ## Controls
 
-Jump - `Space` or `W`
+Jump - `Space` or `ArrowUp` or `W`
 
 Left - `ArrowLeft` or `A`
 
